@@ -1,5 +1,5 @@
 {
-  "name": "V2 Setapak-Jerantut Ride 2026 Planner",
+  "name": "V2 Setapak Jerantut Ride 2026 Planner",
   "description": "A high-performance ride planning and dashboard application for the Setapak to Jerantut motorcycle expedition featuring Honda RS150 and Yamaha Y16 bikes.",
   "requestFramePermissions": [
     "geolocation"
